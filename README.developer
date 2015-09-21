@@ -1,0 +1,13 @@
+Dependencies
+
+- Needs Redis installed
+
+Dev environment setup:
+
+After cloning from git.
+
+rm -Rf vendor 
+rm composer.lock
+
+./composer install
+
